@@ -1,4 +1,4 @@
-
+Here’s the updated README file with the link to your Kubernetes repository:
 
 ```markdown
 # DevOps Learning Path
@@ -44,7 +44,7 @@ Welcome to the DevOps Learning Path repository! This README file provides an ove
 - [Click here to explore Docker](https://github.com/yourusername/docker-repo)
 
 ## Container Orchestration with Kubernetes
-- [Click here to explore Kubernetes](https://github.com/yourusername/kubernetes-repo)
+- [Click here to explore Kubernetes](https://github.com/harinath-az/kubernetes)
 
 ## Infrastructure as Code (IaC)
 - [Click here to explore Terraform and IaC](https://github.com/yourusername/infrastructure-as-code-repo)
@@ -59,16 +59,4 @@ Welcome to the DevOps Learning Path repository! This README file provides an ove
 - [Click here to explore AWS](https://github.com/yourusername/aws-repo)
 
 ## Security in DevOps
-- [Click here to explore Security in DevOps](https://github.com/yourusername/security-devops-repo)
-
-## GitOps
-- [Click here to explore GitOps and ArgoCD](https://github.com/yourusername/gitops-repo)
-
-## DevOps Tools Integration
-- [Click here to explore Integration of DevOps tools](https://github.com/yourusername/devops-tools-integration-repo)
-
-## Real-world DevOps Projects
-- [Click here to explore Real-world DevOps Projects](https://github.com/yourusername/devops-projects-repo)
-```
-
-This structure should display correctly in your GitHub README file, with each heading properly formatted and linked to the relevant repositories.
+- [Click here to explore Security in DevOps](https://github.com/
