@@ -4,15 +4,15 @@ Welcome to my collection of repositories covering various topics in DevOps and r
 
 ## Topics
 
-1. [Introduction to DevOps](http://example.com/introduction-to-devops)
-2. [Networking](http://example.com/networking)
-3. [Linux Basics and Shell Scripting](http://example.com/linux-basics-shell-scripting)
-4. [GitHub](http://example.com/github)
-5. [Continuous Integration and Continuous Deployment](http://example.com/ci-cd)
-6. [Containerization with Docker](http://example.com/containerization-docker)
+1. [Introduction to DevOps](https://github.com/harinath-az/introduction_to_devops)
+2. [Networking](https://github.com/harinath-az/networking)
+3. [Linux Basics and Shell Scripting](https://github.com/harinath-az/linux_and_shell_scripting)
+4. [GitHub](https://github.com/harinath-az/github)
+5. [Continuous Integration and Continuous Deployment](https://github.com/harinath-az/CICD)
+6. [Containerization with Docker](https://github.com/harinath-az/Docker-Zero-to-Hero)
 7. [Container Orchestration with Kubernetes](https://github.com/harinath-az/kubernetes)
-8. [Infrastructure as Code](http://example.com/infrastructure-as-code)
-9. [Configuration Management with Ansible](http://example.com/configuration-management-ansible)
+8. [Infrastructure as Code](https://github.com/harinath-az/infrastructure-as-code)
+9. [Configuration Management with Ansible](https://github.com/harinath-az/configuration-management-ansible)
 
 ## How to Use
 
